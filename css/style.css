@@ -1,0 +1,46 @@
+html {
+	font-family: sans-serif;
+}
+
+h1 {
+	font-size: 40px;
+	background-color: #008080;
+	text-align: center; 
+}
+
+.nav ul {
+	text-align: center;
+}
+
+.nav ul li {
+	display: inline;
+}
+
+#profimg , #abouttext {
+	text-align: center;
+}
+
+#abouttext {
+	font-size: 23px;
+}
+
+#aboutbutton {
+	cursor: pointer;
+}
+
+#moreabouttext {
+	display: none;
+}
+
+.event {
+	font-size: 18px;
+}
+
+.eventbutton {
+	cursor: pointer;
+	background-color: dodgerblue;
+}
+
+.eventimg {
+	display: none;
+}

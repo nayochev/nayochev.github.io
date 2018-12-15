@@ -34,7 +34,7 @@ h1 {
 	border-radius: 3px;
 }
 
-#aboutbutton {
+#aboutbutton:active {
 	-ms-transform: translateY(4px);
 	-webkit-transform: translateY(4px);
 	transform: translateY(4px);

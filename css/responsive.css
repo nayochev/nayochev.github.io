@@ -1,0 +1,10 @@
+@media(max-width: 1000px) {
+  #abouttext {
+    font-size: 23px;
+  }
+
+  #moreabouttext {
+    display: none;
+    font-size: 23px;
+  }
+}
